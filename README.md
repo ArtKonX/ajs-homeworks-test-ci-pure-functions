@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Unit-тестирование»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/7uov2p3woxe56eeg?svg=true)](https://ci.appveyor.com/project/ArtKonX/ajs-homeworks-test-ci-pure-functions)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: ESLint не должен выдавать ошибок.
